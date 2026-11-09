@@ -34,7 +34,7 @@
 **1. Репозиторийді көшіріп алыңыз:**
 
 ```bash
-git clone https://github.com/USERNAME/Finix-Terminal.git
+git clone https://github.com/ersinuzahbaj-design/Finix-Terminal.git
 ```
 
 **2. Жоба бумасына өтіңіз:**
